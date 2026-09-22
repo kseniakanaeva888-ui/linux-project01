@@ -7,6 +7,6 @@
 ---
 [Источник](https://citaty.info/book/antuan-de-sent-ekzyuperi/malenkii-princ)
 
-\```python
-print("У каждого человека свои звезды")
-\```
+```javascript
+const sum = (a, b) => a + b;
+```
